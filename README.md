@@ -1,3 +1,3 @@
 # IMS-spring-angular
-integrated management system spring&amp;angular 2025 
+integrated management system spring &amp; angular 2025 
  # go 
